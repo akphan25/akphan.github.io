@@ -1,5 +1,4 @@
- [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
- <hr></hr>
+<hr />
 <p align="center">
   <samp>
     Hi, I'm OATz! 👋 <br>
