@@ -1,4 +1,4 @@
- <hr></hr>
+<hr />
 <p align="center">
   <samp>
     Hi, I'm OATz! 👋 <br>
